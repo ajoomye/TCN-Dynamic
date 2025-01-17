@@ -1,4 +1,4 @@
-# Codes and Extracted data for Android malware detection using TCN and the CIC-Maldroid dataset
+# Codes and Extracted data for Android malware detection using TCN and the CIC-Maldroid20 dataset
 
 To run training, Unzip and copy the files from the `Extracted_data` folder to the same folder as the the `training.py`.
 
